@@ -54,5 +54,5 @@ Now, go build the app into whatever kind of chatbot you want!
 If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
 
 I'd also love to see what you build with this starter kit - share your projects with me!
-# TermChatGPT
+
 
