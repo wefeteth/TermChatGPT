@@ -13,7 +13,7 @@ interface Props {
 export const Chat: FC<Props> = ({ messages, loading, onSend }) => {
   return (
     <div className="h-screen flex flex-col rounded-lg px-2 
-    sm:p-4 sm:border border-neutral-300 bg-black">
+    sm:p-4  bg-black">
       {messages.map((message, index) => (
         <div
           key={index}
