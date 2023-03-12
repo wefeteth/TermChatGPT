@@ -1,4 +1,4 @@
-# Chatbot UI
+# TermChatGPT
 
 A simple chatbot for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
