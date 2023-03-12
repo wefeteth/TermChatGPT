@@ -4,7 +4,7 @@
 
 <img width="1017" alt="Screenshot 2023-03-12 at 3 37 07 PM" src="https://user-images.githubusercontent.com/118141174/224531048-5847c066-5bd4-4f51-bc7a-9fc9b19f1162.png">
 
-A simple chatbot for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
+A simple stress-free app for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
 
 https://term-chat-gpt.vercel.app
