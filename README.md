@@ -2,6 +2,8 @@
 
 A simple chatbot for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
+Inspired by: 
+https://github.com/mckaywrigley/chatbot-ui
 
 
 ## Features
