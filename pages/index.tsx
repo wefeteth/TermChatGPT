@@ -89,7 +89,7 @@ export default function Home() {
       {
         role: "assistant",
         // Edit here to change the prompt
-        content: prompt.ChatGPTWisdom
+        content: prompt.FeedbackQuestion
       }
     ]);
   }, []);
